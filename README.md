@@ -37,3 +37,5 @@ It's probably wrong to use Godot for such purposes, but I tried to maximize perf
 ## I was in no way involved in the creation of the original game and am not a member of the OneShot development team, this project is purely a fan project.
 
 Almost all the sprites and sounds were taken from the original game and were not created by me.
+
+Original Repo: [DesktopNiko](https://github.com/Issac8658/DesktopNiko)
